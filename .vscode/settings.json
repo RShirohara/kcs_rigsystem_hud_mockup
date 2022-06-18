@@ -1,0 +1,5 @@
+{
+    "dart.env": {
+        "CHROME_EXECUTE": "/usr/bin/chromium"
+    }
+}
